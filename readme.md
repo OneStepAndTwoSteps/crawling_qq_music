@@ -13,3 +13,6 @@
     我这里把他打包成了exe格式执行
    ![Image text](https://raw.githubusercontent.com/OneStepAndTwoSteps/crawling_qq_music/master/img/效果图1.png)
    ![Image text](https://raw.githubusercontent.com/OneStepAndTwoSteps/crawling_qq_music/master/img/效果图1.png)
+
+## 好了那动手试试把
+ ![Image text](https://raw.githubusercontent.com/OneStepAndTwoSteps/crawling_qq_music/master/img/1.jpg)
